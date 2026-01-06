@@ -1,3 +1,3 @@
 ## test
 
-Describe the scene...
+This scene is used for testing
