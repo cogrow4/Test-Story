@@ -1,8 +1,14 @@
 {
   "chapters": [
-    "1-j6HO"
+    "1-j6HO",
+    "2-n9aR"
   ],
-  "scenes": {},
+  "scenes": {
+    "1-j6HO": [
+      "test-XxKS",
+      "test415-jM_q"
+    ]
+  },
   "notes": [
     "test-q7ik"
   ]
